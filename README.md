@@ -1,3 +1,12 @@
+# Hi 👋, I'm Deepak Rawat
+
+💻 Web Developer | MERN Stack Learner
+🚀 Passionate about building modern web applications
+📚 Currently learning advanced JavaScript and backend development
+ Email:- Rawatyuvi.2006@gmail.com 
+
+
+
 ## 🚀 Tech Stack
 
 <p align="center">
