@@ -3,8 +3,7 @@
 💻 Web Developer | MERN Stack Learner
 🚀 Passionate about building modern web applications
 <br>
-<h1 align="center">Hi 👋, I'm Deepak Rawat</h1>
-<h3 align="center">A Passionate Web Developer from India 🇮🇳</h3>
+
 
 * 🌱 Currently learning **MERN Stack Development**
 * 💻 Interested in **Web Development and System Design**
@@ -12,8 +11,8 @@
 * 📫 Reach me at:** rawatyuvi.2006@gmail.com (mailto:rawatyuvi.2006@gmail.com)**
 
 
-<br>
-<br>
+
+
 <br>
 
 ## 🚀 Tech Stack
