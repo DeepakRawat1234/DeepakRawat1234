@@ -8,7 +8,7 @@
 * 🌱 Currently learning **MERN Stack Development**
 * 💻 Interested in **Web Development and System Design**
 * 📊 Also exploring **Power BI & Data Analytics**
-* 📫 Reach me at:** rawatyuvi.2006@gmail.com (mailto:rawatyuvi.2006@gmail.com)**
+* 📫 Reach me at:** rawatyuvi.2006@gmail.com **
 
 
 
