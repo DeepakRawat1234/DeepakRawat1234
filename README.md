@@ -1,8 +1,4 @@
-# Hi 👋, I'm Deepak Rawat
 
-💻 Web Developer | MERN Stack Learner
-🚀 Passionate about building modern web applications
-<br>
 
 # Hi 👋, I'm Deepak Rawat
 
